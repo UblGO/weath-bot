@@ -1,6 +1,6 @@
 # Telegram-бот weath-bot
 
-Созадно с помощью библиотеки echotron: https://www.weatherapi.com
+Созадно с помощью библиотеки echotron: https://github.com/NicoNex/echotron
 
 Для запуска через docker-контейнер, необходимо создать .env файл следующего содержания:
 
